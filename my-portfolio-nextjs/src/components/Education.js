@@ -1,6 +1,6 @@
 import { useScroll, motion } from "framer-motion";
 import { useRef } from "react";
-import LiIcon from "./LiIcon";
+import { Licon } from "./Licon";
 import { education } from "./data/Education";
 
 const EducationDetails = ({ education }) => {
@@ -22,7 +22,7 @@ const Details = ({ name, company, year, place }) => {
             ref={ref}
             className="my-8 first:mt-0 4xl:last:mb-19 2xl:last:mb-1 xl:last:mb-10 xs:last:mb-5 w-[60%] mx-auto flex flex-col justify-between md:w-[80%]"
         >
-            <LiIcon reference={ref} />
+            <Licon reference={ref} />
             <motion.div
                 initial={{ y: 50 }}
                 whileInView={{ y: 0 }}
@@ -50,7 +50,7 @@ const Education = () => {
     return (
         <div className="my-64">
             <h2 className="font-bold text-8xl mb-32 w-full text-center md:text-6xl xs:text-4xl md:mb-16">
-                Parcours d&apos;étude
+                My Education
             </h2>
             <div ref={ref} className="w-[75%] mx-auto relative lg:w-[90%] md:w-full">
                 <motion.div

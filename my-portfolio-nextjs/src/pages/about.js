@@ -2,7 +2,7 @@ import Head from "next/head";
 import AnimatedText from "../components/AnimatedText";
 import Layout from "../components/Layout";
 import Image from "next/image";
-import ProfilePicture from "../img/photo_Alex_R.jpg";
+// import ProfilePicture from "../img/star_war_coding.png";
 import { useEffect, useRef } from "react";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
 import Skills from "../components/Skills";
@@ -91,7 +91,7 @@ const About = () => {
                             </p>
                         </div>
                         <div className="hidden md:block" />
-                        <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:col-span-6 md:order-1">
+                        {/* <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:col-span-6 md:order-1">
                             <div className="absolute top-0 -right-3 -z-10 w-[102%] h-[102%] rounded-[2rem] bg-dark dark:bg-light" />
                             <Image
                                 src={ProfilePicture}
@@ -100,7 +100,7 @@ const About = () => {
                                 priority
                                 sizes="(max-width:768px) 100vw, (max-width:1200px) 50vw, 33vw"
                             />
-                        </div>
+                        </div> */}
                         <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
                             <div className="flex flex-col items-end justify-center xl:items-center">
                                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5l xs:text-4xl">
@@ -133,7 +133,7 @@ const About = () => {
                         </div>
                     </div>
                     <Skills />
-                    <Experience />
+                    <Job />
                     <Education />
                 </Layout>
             </main>

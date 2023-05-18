@@ -106,7 +106,7 @@ export const skills = {
             colorDark: "bg-orange-500",
         },
         {
-            name: "Zendesk",
+            name: "Rest APIs",
             x: "4vw",
             y: "-18vw",
             colorLight: "bg-red-600",
