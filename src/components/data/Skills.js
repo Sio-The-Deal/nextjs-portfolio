@@ -113,7 +113,7 @@ export const skills = {
             colorDark: "bg-red-600",
         },
         {
-            name: "Machine Learning",
+            name: "Test Driven Development",
             x: "-25vw",
             y: "12vw",
             colorLight: "bg-dark",
@@ -155,7 +155,7 @@ export const skills = {
             colorDark: "bg-indigo-500",
         },
         {
-            name: "Test Driven Development",
+            name: "Machine Learning",
             x: "0vw",
             y: "-8vw",
             colorLight: "bg-sky-500",
