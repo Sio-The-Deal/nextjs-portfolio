@@ -3,6 +3,7 @@ import ReactFiber from "./../../img/react_fiber.jpg";
 import Color from "./../../img/color_search.jpg";
 import Yelp from "./../../img/yelp_data_1.jpg";
 import Facilities from "./../../img/facilities_colab_mern.jpg";
+import Portfolio from "./../../img/portfolio.jpg";
 
 export const projects = {
     collaborations: [
@@ -52,7 +53,7 @@ export const projects = {
         },
         {
             name: "Portfolio Nextjs Website",
-            img: ReactFiber,
+            img: Portfolio,
             live_demo_url: "siochang-portfolio-anime.vercel.app",
             gitHub_url: "https://github.com/Sio-The-Deal/react-animation-portfolio",
             technologies: ["#nextJS", "#tailwindcss", "#framer-motion"],
@@ -85,7 +86,7 @@ export const projects = {
             live_demo_url: "https://github.com/Sio-The-Deal/color-scheme",
             gitHub_url: "https://github.com/Sio-The-Deal/color-scheme",
             technologies: ["#MongoDB", "#react" , "#expressjs", "#nodejs", "flask", "#css" ],
-            colSize: 6,
+            colSize: 12,
             summary: " This would be a booking app for DCU students, so that they can book the quietpods or lab rooms or classrooms. It also aims to provide tools for students and for businesses. The first tool we want to have is a color scheme, finding the right color scheme is especially important for marketing and building an optimal frontend ui design..",
         },
     ],

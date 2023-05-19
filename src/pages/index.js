@@ -44,7 +44,7 @@ export default function Home() {
                                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
                             />
                             <p className="my-4 text-base font-medium indent-10 text-justify md:text-sm sm:text-xs">
-                                I am an Enterprise Computing graduate, proficient in software developemnt , data analysis and UX/UI design.
+                                I am an Enterprise Computing graduate, with particular interest in software development and machine learning.
                             </p>
                             <div className="flex items-center self-start mt-2 lg:self-center">
                                 <Link

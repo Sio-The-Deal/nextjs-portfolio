@@ -1,6 +1,6 @@
 import { useScroll, motion } from "framer-motion";
 import { useRef } from "react";
-import { Licon } from "./Licon";
+import Licon  from "./Licon";
 import { education } from "./data/Education";
 
 const EducationDetails = ({ education }) => {
@@ -40,6 +40,7 @@ const Details = ({ name, company, year, place }) => {
         </li>
     );
 };
+
 
 const Education = () => {
     const ref = useRef(null);
