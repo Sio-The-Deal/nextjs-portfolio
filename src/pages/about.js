@@ -1,7 +1,7 @@
 import Head from "next/head";
 import AnimatedText from "../components/AnimatedText";
 import Layout from "../components/Layout";
-import Image from "next/image";
+// import Image from "next/image";
 // import ProfilePicture from "../img/star_war_coding.png";
 import { useEffect, useRef } from "react";
 import { useInView, useMotionValue, useSpring } from "framer-motion";

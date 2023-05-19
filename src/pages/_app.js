@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <main
-                className={`${besley.variable} font-mont bg-light dark:bg-dark w-full min-h-screen`}
+                className={`${besley.variable} font-mont bg-orange-500 dark:bg-orange-600 w-full min-h-screen`}
             >
                 <NavBar />
                 <AnimatePresence mode="wait">
