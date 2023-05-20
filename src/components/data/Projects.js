@@ -54,7 +54,7 @@ export const projects = {
         {
             name: "Portfolio Nextjs Website",
             img: Portfolio,
-            live_demo_url: "siochang-portfolio-anime.vercel.app",
+            live_demo_url: "https://siochang.vercel.app/",
             gitHub_url: "https://github.com/Sio-The-Deal/react-animation-portfolio",
             technologies: ["#nextJS", "#tailwindcss", "#framer-motion"],
             colSize: 12,
