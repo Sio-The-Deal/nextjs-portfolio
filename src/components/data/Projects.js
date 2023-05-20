@@ -1,9 +1,9 @@
 
-import ReactFiber from "./../../img/react_fiber.jpg";
-import Color from "./../../img/color_search.jpg";
-import Yelp from "./../../img/yelp_data_1.jpg";
-import Facilities from "./../../img/facilities_colab_mern.jpg";
-import Portfolio from "./../../img/portfolio.jpg";
+import ReactFiber from "./../../img/reactfiber.jpg";
+import Color from "./../../img/color.jpg";
+import Yelp from "./../../img/yelp_data_2.jpg";
+import Facilities from "./../../img/facilities.jpg";
+import Portfolio from "./../../img/portfolio1.jpg";
 
 export const projects = {
     collaborations: [
