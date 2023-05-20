@@ -1,7 +1,7 @@
 import Head from "next/head";
 import AnimatedText from "../components/AnimatedText";
 import Layout from "../components/Layout";
-// import Image from "next/image";
+import Image from "next/image";
 // import ProfilePicture from "../img/star_war_coding.png";
 import { useEffect, useRef } from "react";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
@@ -119,7 +119,7 @@ const About = () => {
                                     />{" "}
                                 </span>
                                 <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                                    Projets
+                                    Projects
                                 </h2>
                             </div>
                             <div className="flex flex-col items-end justify-center xl:items-center">
@@ -127,7 +127,7 @@ const About = () => {
                                     <AnimatedNumbers value={experienceYears()} /> +
                                 </span>
                                 <h2 className="text-xl font-medium text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                                    Années d&apos;experience
+                                    Years of Experience
                                 </h2>
                             </div>
                         </div>
