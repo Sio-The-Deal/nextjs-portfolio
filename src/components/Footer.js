@@ -19,7 +19,8 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="xs:mt-3">
-                    <div>{new Date().getFullYear()} &copy; All Rights Reserved</div>
+                    <div>{new Date().getFullYear()} &copy;  </div> 
+                    {/* <div>{new Date().getFullYear()} &copy; All Rights Reserved </div>  */}
 
                 </div>
             </Layout>
