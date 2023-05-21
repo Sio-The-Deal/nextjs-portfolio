@@ -42,11 +42,11 @@ export const projects = {
     ],
     personnalProjects: [
         {
-            name: "Portfolio React-Three Website",
+            name: "Portfolio React-Three-Fiber Website",
             img: ReactFiber,
             live_demo_url:  "https://siochang-portfolio-anime.vercel.app",
             gitHub_url: "https://github.com/Sio-The-Deal/react-animation-portfolio",
-            technologies: ["#threejs", "#react-fiber", "#blender"],
+            technologies: ["#threejs", "#react-three-fiber", "#blender"],
             colSize: 12,
             summary:
                 "portfolio website built with react fiber, blender and three.",
