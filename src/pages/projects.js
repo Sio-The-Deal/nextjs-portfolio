@@ -169,7 +169,7 @@ const Projects = () => {
     return (
         <>
             <Head>
-                <title>Projects d&apos;Sio Chang</title>
+                <title>My Projects</title>
                 <meta name="description" content="Projects By Sio Chang" />
                 <meta property="og:title" content="Projects By Sio Chang" />
                 <meta
