@@ -44,7 +44,7 @@ export const projects = {
         {
             name: "Portfolio React-Three Website",
             img: ReactFiber,
-            live_demo_url: "https://siochang-portfolio-anime.vercel.app/",
+            live_demo_url:  "https://siochang-portfolio-anime.vercel.app",
             gitHub_url: "https://github.com/Sio-The-Deal/react-animation-portfolio",
             technologies: ["#threejs", "#react-fiber", "#blender"],
             colSize: 12,
