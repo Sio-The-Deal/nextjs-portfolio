@@ -72,7 +72,7 @@ export default function Home() {
                                             href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
                                             className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
-                                            Oracle Cloud Data Management 2023 Certified Foundations Associate
+                                            Oracle Cloud Data Management Certified Foundations Associate
                                             <span
                                                 className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
                                                     router.asPath === "https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
@@ -87,7 +87,7 @@ export default function Home() {
                                             href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
                                             className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
-                                            Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+                                            Oracle Cloud Infrastructure Certified Foundations Associate
                                             <span
                                                 className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
                                                     router.asPath === "https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
