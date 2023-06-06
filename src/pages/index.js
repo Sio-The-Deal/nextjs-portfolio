@@ -47,45 +47,53 @@ export default function Home() {
                                 I am an Enterprise Computing graduate, with particular interest in software development and machine learning.
                             </p>
                             <div className="flex items-center self-start mt-2 lg:self-center">
-                                <Link
-                                    href="https://www.scrum.org/certificates/890370"
-                                    className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
-                                >
-                                    Professional Scrum Master I
-                                    <span
-                                        className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
-                                            router.asPath === "https://www.scrum.org/certificates/890370"
-                                                ? "w-full"
-                                                : "w-0"
-                                        }`}
-                                    ></span>
-                                </Link>
-                                <Link
-                                    href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
-                                    className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
-                                >
-                                    Oracle Cloud Data Management 2023 Certified Foundations Associate
-                                    <span
-                                        className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
-                                            router.asPath === "https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
-                                                ? "w-full"
-                                                : "w-0"
-                                        }`}
-                                    ></span>
-                                </Link>
-                                <Link
-                                    href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
-                                    className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
-                                >
-                                     Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-                                    <span
-                                        className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
-                                            router.asPath === "https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
-                                                ? "w-full"
-                                                : "w-0"
-                                        }`}
-                                    ></span>
-                                </Link>
+                                <ul>
+                                    <li>
+                                        <Link
+                                            href="https://www.scrum.org/certificates/890370"
+                                            className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
+                                        >
+                                            Professional Scrum Master I
+                                            <span
+                                                className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
+                                                    router.asPath === "https://www.scrum.org/certificates/890370"
+                                                        ? "w-full"
+                                                        : "w-0"
+                                                }`}
+                                            ></span>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link
+                                            href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
+                                            className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
+                                        >
+                                            Oracle Cloud Data Management 2023 Certified Foundations Associate
+                                            <span
+                                                className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
+                                                    router.asPath === "https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
+                                                        ? "w-full"
+                                                        : "w-0"
+                                                }`}
+                                            ></span>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link
+                                            href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
+                                            className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
+                                        >
+                                            Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+                                            <span
+                                                className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
+                                                    router.asPath === "https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
+                                                        ? "w-full"
+                                                        : "w-0"
+                                                }`}
+                                            ></span>
+                                        </Link>
+                                    </li>
+                                </ul>
                             </div>
                             <div className="flex items-center self-start mt-2 lg:self-center">
                                 <Link
