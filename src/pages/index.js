@@ -46,7 +46,7 @@ export default function Home() {
                             <p className="my-4 text-base font-medium indent-10 capitalize text-justify md:text-md sm:text-sm">
                                 I am an Enterprise Computing graduate, with particular interest in software development and machine learning.
                             </p>
-                            <div className="flex items-center self-start mt-2 lg:self-center font-medium capitalize ">
+                            <div className="flex items-center self-start mt-2 lg:self-center font-large capitalize ">
                                     My Certifications:
                             </div>
                             <div className="flex items-center self-start mt-2 lg:self-center">
