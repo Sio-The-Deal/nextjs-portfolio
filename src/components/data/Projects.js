@@ -18,6 +18,17 @@ export const projects = {
             address: "DCU",
             work: "Building driver's interface ,connect to database , ensuring reliability.",
         },
+
+        {
+            name: "Off The Road Collective",
+            time: "Feb 2023 - May 2023",
+            projects: ["E-commerce website"],
+            position: "Fullstack Developer",
+            company: "Off The Road Collective",
+            companyLink: "https://www.linkedin.com/company/off-the-road-collective?trk=organization_guest_main-feed-card_reshare-text",
+            address: "DCU",
+            work: "Building the frontend of the website.",
+        },
         {
             name: "Facilities Booking App",
             time: "Dec 2022 - April 2023",
@@ -29,16 +40,6 @@ export const projects = {
             companyLink: "/",
             address: "Dublin",
             work: "User Login, Frontend design, backend data",
-        },
-        {
-            name: "Off The Road Collective",
-            time: "Feb 2023 - May 2023",
-            projects: ["E-commerce website"],
-            position: "Fullstack Developer",
-            company: "Off The Road Collective",
-            companyLink: "https://www.linkedin.com/company/off-the-road-collective?trk=organization_guest_main-feed-card_reshare-text",
-            address: "DCU",
-            work: "Building the frontend of the website.",
         },
     ],
     personnalProjects: [
