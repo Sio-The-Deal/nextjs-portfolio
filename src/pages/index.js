@@ -43,18 +43,19 @@ export default function Home() {
                                 text="My name is Sio"
                                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
                             />
-                            <p className="my-4 text-base font-medium indent-10 capitalize text-justify md:text-sm sm:text-xs">
+                            <p className="my-4 text-base font-medium indent-10 capitalize text-justify md:text-md sm:text-sm">
                                 I am an Enterprise Computing graduate, with particular interest in software development and machine learning.
                             </p>
-                            <div className="flex items-center self-start mt-2 lg:self-center">
-                                <p className="my-4 text-base font-medium capitalize text-justify md:text-sm sm:text-xs">
+                            <div className="flex items-center self-start mt-2 lg:self-center font-medium capitalize ">
                                     My Certifications:
-                                </p>
+                            </div>
+                            <div className="flex items-center self-start mt-2 lg:self-center">
+
                                 <ul>
                                     <li>
                                         <Link
                                             href="https://www.scrum.org/certificates/890370"
-                                            className="relative group ml-4 text-lg font-medium text-dark dark:text-light md:text-base"
+                                            className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
                                             Professional Scrum Master I
                                             <span
@@ -69,7 +70,7 @@ export default function Home() {
                                     <li>
                                         <Link
                                             href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EA44C18240C411C9B0B6B8466F8A167BA0203E36FB2BFA32B2BB2E5D90995A5"
-                                            className="relative group ml-4 text-lg font-medium text-dark dark:text-light md:text-base"
+                                            className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
                                             Oracle Cloud Data Management 2023 Certified Foundations Associate
                                             <span
@@ -84,7 +85,7 @@ export default function Home() {
                                     <li>
                                         <Link
                                             href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A902C7AC88B4B1D138007AB2A0ED271DA1EBC4CCA7FDCC0867FAA00EB482DBEB"
-                                            className="relative group ml-4 text-lg font-medium text-dark dark:text-light md:text-base"
+                                            className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
                                             Oracle Cloud Infrastructure 2023 Certified Foundations Associate
                                             <span
