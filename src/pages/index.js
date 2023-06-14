@@ -54,13 +54,28 @@ export default function Home() {
                                 <ul>
                                     <li>
                                         <Link
-                                            href="https://www.scrum.org/certificates/890370"
+                                            href="https://www.credly.com/badges/0acdd389-6d30-4bac-9de4-bb475afc3bdb"
                                             className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
                                             Professional Scrum Master I
                                             <span
                                                 className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
-                                                    router.asPath === "https://www.scrum.org/certificates/890370"
+                                                    router.asPath === "https://www.credly.com/badges/0acdd389-6d30-4bac-9de4-bb475afc3bdb"
+                                                        ? "w-full"
+                                                        : "w-0"
+                                                }`}
+                                            ></span>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link
+                                            href="https://www.credly.com/badges/16e637e8-afc6-4a2c-8f28-0fdd9e62c51c/public_url"
+                                            className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
+                                        >
+                                            Microsoft Certified: Azure Data Fundamentals
+                                            <span
+                                                className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
+                                                    router.asPath === "https://www.credly.com/badges/16e637e8-afc6-4a2c-8f28-0fdd9e62c51c/public_url"
                                                         ? "w-full"
                                                         : "w-0"
                                                 }`}
