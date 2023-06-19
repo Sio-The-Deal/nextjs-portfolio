@@ -69,13 +69,28 @@ export default function Home() {
                                     </li>
                                     <li>
                                         <Link
-                                            href="https://www.credly.com/badges/16e637e8-afc6-4a2c-8f28-0fdd9e62c51c/public_url"
+                                            href="https://www.credly.com/badges/235497d3-300c-4d31-9992-5284400db298"
                                             className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
                                         >
-                                            Microsoft Certified: Azure Data Fundamentals
+                                            Microsoft Power Platform Fundamentals
                                             <span
                                                 className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
-                                                    router.asPath === "https://www.credly.com/badges/16e637e8-afc6-4a2c-8f28-0fdd9e62c51c/public_url"
+                                                    router.asPath === "https://www.credly.com/badges/235497d3-300c-4d31-9992-5284400db298"
+                                                        ? "w-full"
+                                                        : "w-0"
+                                                }`}
+                                            ></span>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link
+                                            href="https://www.credly.com/badges/16e637e8-afc6-4a2c-8f28-0fdd9e62c51c"
+                                            className="relative group ml-4 text-lg font-small text-dark dark:text-light md:text-base"
+                                        >
+                                            Microsoft Azure Data Fundamentals
+                                            <span
+                                                className={`h-[2px] inline-block bg-dark dark:bg-light absolute left-0 -bottom-0.5 group-hover:w-full transition-[width] ease duration-300 ${
+                                                    router.asPath === "https://www.credly.com/badges/16e637e8-afc6-4a2c-8f28-0fdd9e62c51c"
                                                         ? "w-full"
                                                         : "w-0"
                                                 }`}
