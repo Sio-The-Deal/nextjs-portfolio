@@ -39,7 +39,7 @@ export const projects = {
             company: "Nikko Japanese & Chinese Restaurant",
             companyLink: "https://www.facebook.com/nikkoasianrestaurant/",
             address: "Drogheda",
-            work: "Social media marketing, SEO optimisation, Content Management, Business Process Change (due to COVID-19), People management.",
+            work: "Website management, Social media marketing, SEO optimisation, Content Management, Business Process Change (due to COVID-19), People management.",
         },
 
     ],
