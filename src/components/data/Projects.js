@@ -30,17 +30,18 @@ export const projects = {
             work: "Building the frontend of the website.",
         },
         {
-            name: "Facilities Booking App",
-            time: "Dec 2022 - April 2023",
+            name: "Social Media & IT Management",
+            time: "Feb 2019 - Aug 2021",
             projects: [
-                "Facilities Booking App"
+                "Product Marketing", "Business Process Change", "Social Media Marketing"
             ],
-            position: "Fullstack Developer",
-            company: "DCU",
-            companyLink: "/",
-            address: "Dublin",
-            work: "User Login, Frontend design, backend data",
+            position: "Social Media & IT Manager",
+            company: "Nikko Japanese & Chinese Restaurant",
+            companyLink: "https://www.facebook.com/nikkoasianrestaurant/",
+            address: "Drogheda",
+            work: "Social media marketing, SEO optimisation, Content Management, Business Process Change (due to COVID-19), People management.",
         },
+
     ],
     personnalProjects: [
         {

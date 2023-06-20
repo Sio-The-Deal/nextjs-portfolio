@@ -11,10 +11,10 @@ export const education = [
     //     company: "Technology University Dublin",
     //     address: "Dublin",
     // },
-    {
-        name: "Leaving Cert",
-        // year: 2014,
-        company: "De La Salle Churchtown",
-        address: "Dublin",
-    },
+    // {
+    //     name: "Leaving Cert",
+    //     // year: 2014,
+    //     company: "De La Salle Churchtown",
+    //     address: "Dublin",
+    // },
 ];
