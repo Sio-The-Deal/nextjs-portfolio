@@ -80,14 +80,14 @@ const About = () => {
                             </h2>
                             <p className="text-justify font-medium indent-10">
                             During my studies, I developed a strong foundation in business principles and technical skills, 
-                            including software development, database management, and project management. 
+                            including software engineering, machine learnging, product and project management. 
                             </p>
                             <p className="text-justify font-medium indent-10 my-4">
                                 I have {experienceYears()} years of experience in software development and have gained data analysis skill through completing machine learning assignments in college.   
                             </p>
                             <p className="text-justify font-medium indent-10">
                                 As a motivated and adaptable individual, I am passionate about leveraging my experience, education and skills to drive innovation and success in the business and technology sectors.
-                                I am particularly interested in exploring opportunities in areas such as data analysis, e-commerce, blockchain technology, software engineering and software development. 
+                                I am particularly interested in exploring opportunities in areas such as business analysis, product management, project management and software engineering.
                             </p>
                         </div>
                         <div className="hidden md:block" />
