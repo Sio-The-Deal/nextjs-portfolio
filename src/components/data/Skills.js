@@ -8,14 +8,14 @@ export const skills = {
             colorDark: "bg-light",
         },
         {
-            name: "HTML5",
+            name: "Business Analsysis",
             x: "-8vw",
             y: "-4vw",
             colorLight: "bg-orange-500",
             colorDark: "bg-orange-500",
         },
         {
-            name: "CSS3",
+            name: "Risk Management",
             x: "8vw",
             y: "-4vw",
             colorLight: "bg-blue-600",
@@ -57,7 +57,7 @@ export const skills = {
             colorDark: "bg-blue-300",
         },
         {
-            name: "NextJS",
+            name: "Data Visualisation",
             x: "15vw",
             y: "5vw",
             colorLight: "bg-slate-400",
@@ -71,7 +71,7 @@ export const skills = {
             colorDark: "bg-violet-700",
         },
         {
-            name: "Bootstrap",
+            name: "Product Managemenet",
             x: "17vw",
             y: "0vw",
             colorLight: "bg-purple-700",
@@ -85,7 +85,7 @@ export const skills = {
             colorDark: "bg-sky-800",
         },
         {
-            name: "Firebase",
+            name: "SQL",
             x: "27vw",
             y: "9vw",
             colorLight: "bg-amber-400",
@@ -113,14 +113,14 @@ export const skills = {
             colorDark: "bg-red-600",
         },
         {
-            name: "Test Driven Development",
+            name: "Software Testing",
             x: "-25vw",
             y: "12vw",
             colorLight: "bg-dark",
             colorDark: "bg-light",
         },
         {
-            name: "Three Js",
+            name: "Dev Ops",
             x: "-12vw",
             y: "-17vw",
             colorLight: "bg-cyan-700",
@@ -134,7 +134,7 @@ export const skills = {
             colorDark: "bg-blue-700",
         },
         {
-            name: ".Net",
+            name: "ASP .Net",
             x: "-24vw",
             y: "-13vw",
             colorLight: "bg-blue-400",
