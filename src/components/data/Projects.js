@@ -8,15 +8,27 @@ import Portfolio from "./../../img/portfolio1.jpg";
 export const projects = {
     collaborations: [
 
+
         {
-            name: "DCU solar racing car",
-            time: "Dec 2022 - Present",
+            name: "",
+            time: "Dec 2022 - Sept 2023",
             projects: ["DCU solar racing car"],
             position: "Software Engineer",
             company: "DCU solar racing",
             companyLink: "https://solarracing.ie/",
             address: "DCU",
-            work: "Building driver's interface ,connect to database , ensuring reliability.",
+            work: "Collaborate with fellow engineers to build driver's interface.",
+        },
+
+        {
+            name: "DCU solar racing car",
+            time: "Dec 2022 - Sept 2023",
+            projects: ["DCU solar racing car"],
+            position: "Software Engineer",
+            company: "DCU solar racing",
+            companyLink: "https://solarracing.ie/",
+            address: "DCU",
+            work: "Collaborate with fellow engineers to build driver's interface.",
         },
 
         {

@@ -8,14 +8,14 @@ export const skills = {
             colorDark: "bg-light",
         },
         {
-            name: "Business Analsysis",
+            name: "Business Analysis",
             x: "-8vw",
             y: "-4vw",
             colorLight: "bg-orange-500",
             colorDark: "bg-orange-500",
         },
         {
-            name: "Risk Management",
+            name: "Computer Hardware Troubleshooting",
             x: "8vw",
             y: "-4vw",
             colorLight: "bg-blue-600",
@@ -29,7 +29,7 @@ export const skills = {
             colorDark: "bg-yellow-500",
         },
         {
-            name: "TailwindCSS",
+            name: "TCP/IP Networks",
             x: "-16vw",
             y: "-9vw",
             colorLight: "bg-cyan-400",
@@ -43,7 +43,7 @@ export const skills = {
             colorDark: "bg-fuchsia-500",
         },
         {
-            name: "Node.Js",
+            name: "Bash Scripting",
             x: "-20vw",
             y: "-1vw",
             colorLight: "bg-green-600",
@@ -64,7 +64,7 @@ export const skills = {
             colorDark: "bg-slate-400",
         },
         {
-            name: "Redux",
+            name: "System Engineering",
             x: "0vw",
             y: "13vw",
             colorLight: "bg-violet-700",
@@ -92,7 +92,7 @@ export const skills = {
             colorDark: "bg-amber-400",
         },
         {
-            name: "Flutter",
+            name: "Data Center Infrastructure",
             x: "12vw",
             y: "17vw",
             colorLight: "bg-sky-500",
@@ -113,14 +113,14 @@ export const skills = {
             colorDark: "bg-red-600",
         },
         {
-            name: "Software Testing",
+            name: "Data Center Infrastructure",
             x: "-25vw",
             y: "12vw",
             colorLight: "bg-dark",
             colorDark: "bg-light",
         },
         {
-            name: "Dev Ops",
+            name: "Networking",
             x: "-12vw",
             y: "-17vw",
             colorLight: "bg-cyan-700",

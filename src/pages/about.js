@@ -80,14 +80,14 @@ const About = () => {
                             </h2>
                             <p className="text-justify font-medium indent-10">
                             During my studies, I developed a strong foundation in business principles and technical skills, 
-                            including software engineering, machine learnging, product and project management. 
+                            including software and system engineering, machine learnging, product and project management. 
                             </p>
                             <p className="text-justify font-medium indent-10 my-4">
                                 I have {experienceYears()} years of experience in software development and have gained data analysis skill through completing machine learning assignments in college.   
                             </p>
                             <p className="text-justify font-medium indent-10">
-                                As a motivated and adaptable individual, I am passionate about leveraging my experience, education and skills to drive innovation and success in the business and technology sectors.
-                                I am particularly interested in exploring opportunities in areas such as business analysis, product management, project management and software engineering.
+                                I have hands-on experience as a Data Center Operations Technician, with a strong foundation in Python and scripting to automate and streamline operational tasks.
+                                My background includes working with data center infrastructure, cloud storage technologies, and system engineering principles, enabling me to troubleshoot, optimize, and support critical IT systems. I am constantly learning and have a strong interest in AI, using it to build tools and streamline daily workflows. I bring both technical expertise and an innovative mindset, making me well-suited for roles in Data Center Operations, Systems Engineering, and Network Engineering
                             </p>
                         </div>
                         <div className="hidden md:block" />
