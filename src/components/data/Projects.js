@@ -17,7 +17,7 @@ export const projects = {
             company: "Amazon Web Services",
             companyLink: "https://aws.amazon.com/",
             address: "AWS",
-            work: "Servers Troubleshooting/Repairs",
+            work: "Servers Troubleshooting/Repairs, Network Troubleshooting",
         },
 
         {
