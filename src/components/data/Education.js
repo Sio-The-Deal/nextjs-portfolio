@@ -1,5 +1,12 @@
 export const education = [
     {
+        name: "Data Center Technician Course",
+        year: 2024,
+        company: "Drogheda Institute of Further Education",
+        address: "Drogheda",
+    },
+    
+    {
         name: "Bachelors Degree In Enterprise Computing",
         year: 2023,
         company: "Dublin College University",
