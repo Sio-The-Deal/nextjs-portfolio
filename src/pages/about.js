@@ -86,7 +86,7 @@ const About = () => {
                                 I have {experienceYears()} years of experience in software development and have gained data analysis skill through completing machine learning assignments in college.   
                             </p>
                             <p className="text-justify font-medium indent-10">
-                                I have hands-on experience as a Data Center Operations Technician, with a strong foundation in Python and scripting to automate and streamline operational tasks.
+                                I have hands-on experience as a Data Center Operations Technician in AWS, with a strong foundation in Python and scripting to automate and streamline operational tasks.
                                 My background includes working with data center infrastructure, cloud storage technologies, and system engineering principles, enabling me to troubleshoot, optimize, and support critical IT systems. I am constantly learning and have a strong interest in AI, using it to build tools and streamline daily workflows. I bring both technical expertise and an innovative mindset, making me well-suited for roles in Data Center Operations, Systems Engineering, and Network Engineering
                             </p>
                         </div>

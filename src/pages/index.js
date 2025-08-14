@@ -44,8 +44,7 @@ export default function Home() {
                                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
                             />
                             <p className="my-4 text-base font-medium indent-10 capitalize text-justify md:text-md sm:text-sm">
-                                I have hands-on experience as a Data Center Operations Technician, with a strong foundation in Python and scripting to automate and streamline operational tasks.
-                                My background includes working with data center infrastructure, cloud storage technologies, and system engineering principles, enabling me to troubleshoot, optimize, and support critical IT systems. I am constantly learning and have a strong interest in AI, using it to build tools and streamline daily workflows. I bring both technical expertise and an innovative mindset, making me well-suited for roles in Data Center Operations, Systems Engineering, and Network Engineering
+                                I have hands-on experience as a Data Center Operations Technician, with a strong foundation in Python and scripting to automate and streamline operational tasks. My background includes working with data center infrastructure, cloud storage technologies, and system engineering principles, enabling me to troubleshoot, optimize, and support critical IT systems. I am constantly learning and have a strong interest in AI, using it to build tools and streamline daily workflows. I bring both technical expertise and an innovative mindset, making me well-suited for roles in Data Center Operations, Systems Engineering, and Network Engineering
                             </p>
                             <div className="flex items-center self-start mt-2 lg:self-center font-large capitalize ">
                                     My Certifications:

@@ -10,14 +10,14 @@ export const projects = {
 
 
         {
-            name: "",
-            time: "Dec 2022 - Sept 2023",
-            projects: ["DCU solar racing car"],
-            position: "Software Engineer",
-            company: "DCU solar racing",
-            companyLink: "https://solarracing.ie/",
-            address: "DCU",
-            work: "Collaborate with fellow engineers to build driver's interface.",
+            name: "Amazon Web Services",
+            time: "Jan 2024 - till now",
+            projects: ["Streamlining Documentation with GenAI"],
+            position: "Data Center Operation Technician",
+            company: "Amazon Web Services",
+            companyLink: "https://aws.amazon.com/",
+            address: "AWS",
+            work: "Servers Troubleshooting/Repairs",
         },
 
         {
@@ -28,7 +28,7 @@ export const projects = {
             company: "DCU solar racing",
             companyLink: "https://solarracing.ie/",
             address: "DCU",
-            work: "Collaborate with fellow engineers to build driver's interface.",
+            work: "Collaborate with fellow engineers to build and manage the website and design the frontend interface of the driver's interface.",
         },
 
         {
